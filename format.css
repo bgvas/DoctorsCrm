@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+.p {
+	max-width: inherit;
+	height: 200px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	color: #00C;
+}
+
+.p2 {
+	max-width: 250px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	color: #00C;
+	text-align: center;
+}
+
+.text-visit {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	color: #00C;
+}
+
+.top-banner {
+	background-image: url(top%20banner.jpg);
+	background-size: 1000px 70px;
+	background-repeat: no-repeat;
+}
+
+.buton {
+	width: 300px;
+	height: 50px;
+	color: #F00;
+	font-weight: bolder;
+}
+
+.sfont {
+	font-weight: bolder;
+	font-size: 16px;
+}
+
+.header {
+	font-weight: bolder;
+	font-size: 16px;
+	background-color: #FFF;
+}
+
+.input.largerCheckbox {
+	width: 30px;
+	height: 30px;
+}
+
+.buton2 {
+	width: 300px;
+	height: 50px;
+	color: #009;
+	font-weight: bolder;
+	background-color: #CCC;
+}
+
+.header-list {
+	background-color: #CCC;
+	font-weight: bolder;
+}
+
+.buton-litle {
+	width: 80px;
+	height: 20px;
+	color: #009;
+	font-weight: bolder;
+	background-color: #CCC;
+	font-size: 8px;
+}
+
+.search-list {
+	background-color: #FFF;
+	font-size:20px;
+	color:#00C; 
+
+}
+
